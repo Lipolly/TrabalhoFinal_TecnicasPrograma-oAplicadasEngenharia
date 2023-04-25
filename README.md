@@ -20,6 +20,9 @@
 ------------------------------------------------------------------------
 
 TITULO DO PROJETO: Turhrock
+
 OBJETIVO DO PROJETO: Um RPG curto, usado como objeto avaliativo na disciplina TPAE
+
 VERSÃO: 3.2
+
 AUTORES: Ricardo Piero Lippoli Batista
