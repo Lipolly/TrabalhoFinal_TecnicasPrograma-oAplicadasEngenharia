@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Acessorio
+comment1.params=nome\ nomeInteiro\ descricao\ vida\ dano\ desvio
+comment1.target=Acessorio(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int,\ int)
+comment1.text=\r\n\ define\ o\ acessorio\r\n
+comment2.params=
+comment2.target=java.lang.String\ descricaoLonga()
+comment2.text=\r\n\ sobrescreve\ a\ descri\u00E7\u00E3o\ longa\ do\ item\ para\ se\ adequar\ ao\ acessorio\r\n
+numComments=3

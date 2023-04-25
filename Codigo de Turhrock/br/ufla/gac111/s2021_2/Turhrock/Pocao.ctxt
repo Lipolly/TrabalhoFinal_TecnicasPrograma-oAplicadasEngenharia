@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Pocao
+comment1.params=nome\ nomeInteiro\ descricao\ vida
+comment1.target=Pocao(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\n\ define\ os\ valores\ de\ po\u00E7\u00E3o\r\n
+comment2.params=
+comment2.target=java.lang.String\ descricaoLonga()
+comment2.text=\r\n\ sobrescreve\ a\ descricao\ longa\ do\ item\ para\ se\ adequar\ \u00E1\ po\u00E7\u00E3o\r\n
+numComments=3

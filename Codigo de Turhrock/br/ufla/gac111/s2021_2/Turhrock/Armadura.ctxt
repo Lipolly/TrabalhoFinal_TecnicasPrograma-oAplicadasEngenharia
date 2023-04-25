@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Armadura
+comment1.params=nome\ nomeInteiro\ descricao\ vida\ dano\ desvio\ tipo
+comment1.target=Armadura(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ java.lang.String)
+comment1.text=\r\n\ define\ os\ valores\ de\ armadura\r\n
+comment2.params=
+comment2.target=java.lang.String\ getTipo()
+comment2.text=\r\n\ mostra\ o\ tipo\ da\ parte\ da\ armadura\r\n
+numComments=3
